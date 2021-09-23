@@ -393,10 +393,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playlist:
-  - {fileID: 8300000, guid: f0950e56a87ab4e47bc6958ac765fcb9, type: 3}
-  - {fileID: 8300000, guid: 6843114d75610af438a9b06faa326ad7, type: 3}
-  - {fileID: 8300000, guid: 4bb04467a5a53074aab885db80480c8e, type: 3}
-  - {fileID: 8300000, guid: 5a376d65d58029b4c885aa65f8f1acad, type: 3}
+  - {fileID: 8300000, guid: 1b8f96bf0febb6a4480acbaf4305977a, type: 3}
+  - {fileID: 8300000, guid: 57cfc72a5c9f5284084525ef0521ea3d, type: 3}
+  - {fileID: 8300000, guid: 51e0e1b4affff1c4b8bc131468a56988, type: 3}
+  - {fileID: 8300000, guid: b481d0118e16d444b97c29878d3458cc, type: 3}
   audioSource: {fileID: 638512955}
 --- !u!82 &638512955
 AudioSource:
@@ -410,7 +410,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.25
+  m_Volume: 0.05
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -605,7 +605,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 1b11f7ba2c28281449da391673a1700f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19496,7 +19496,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 1b11f7ba2c28281449da391673a1700f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
